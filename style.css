@@ -1,0 +1,9 @@
+.header {
+    display: flex;
+}
+.header_list {
+    display: flex;
+}
+.header_title {
+    color: aquamarine;
+}
